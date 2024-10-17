@@ -53,7 +53,7 @@
 - *Degree*: Engineering in Financial Computing
 - *Institution*: Esprit (2018 - 2023)
 - *Degree*: master actuarial and finance
-- *Institution*: Esprit (2023)
+- *Institution*: Universite Le Mans (2023)
 
 
 ## 🌐 Languages
